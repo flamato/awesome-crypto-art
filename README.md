@@ -6,9 +6,11 @@ This list is curated and published by [obxium](https://obxium.com).
 
 Contributions from all members of the crypto art community are welcome.
 
-Please read and follow the guidelines described in [Contributor Covenant Code of Conduct.md](https://github.com/obxium/awesome-crypto-art/blob/master/CODE_OF_CONDUCT.md) to ensure that your contribution counts, then open a pull request in a named feature branch to add or update content.
+Please read and follow the guidelines described in both [CONTRIBUTING.md](https://github.com/obxium/awesome-crypto-art/blob/master/CONTRIBUTING.md) and the [CODE_OF_CONDUCT.md](https://github.com/obxium/awesome-crypto-art/blob/master/CODE_OF_CONDUCT.md) to ensure that you are comfortable participating and sharing your contribution.
 
-Please add your suggestions to the appropriate section in _alphabetical order_.
+Please add your suggestions to the appropriate section in alphabetical order _with the exception of artist names_, which sort based on the complete name/title and _not_ by last name as established.
+
+Once you've pushed your feature branch, please open a pull request to add or update content.
 
 If you want to discuss something more complex than adding or editing an entry, (such as the addition of new sections or major edits) please feel free to [file an issue](https://github.com/obxium/awesome-crypto-art/issues) so that we can discuss it further.
 
@@ -71,7 +73,7 @@ If you want to discuss something more complex than adding or editing an entry, (
 
 **Please carefully read and understand the disclaimer for this publication.**
 
-- Nothing in this publication constitutes financial advice and the contributors to this publication are not qualified licensed financial advisors
+- Nothing in this publication constitutes financial advice and the contributors to this publication are not contributing as qualified licensed financial advisors
 - All information found in this publication, including ideas, opinions, views, commentaries, suggestions, or processes, expressed or implied herein, are for informational, entertainment or educational purposes only and should not be construed as financial advice
 - The authors and contributors will not and cannot be held liable for any actions you take as a result of anything you read in this publication
 - No representations or warranties are made with respect to the accuracy or completeness of the content of this entire publication, including any links to other sites. The links provided are maintained by their respective organizations and those organizations are solely responsible for their content. **All information presented in this publication is provided ‘as is’**, **without warranty of any kind**, **expressed or implied**.
@@ -437,3 +439,4 @@ Rare Pepe is built on Counterparty. Each Rare Pepe asset is a Counterparty token
 
 - Thanks to all artists who create wonderful contributions to humanity
 - Thanks to all technologists enabling art technologies and platforms
+- Thanks to everyone who enjoys the arts
