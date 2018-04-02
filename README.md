@@ -27,6 +27,7 @@ Please read and follow the guidelines described in both [CONTRIBUTING.md](https:
    * [Curio Cards](#curio-cards)
    * [DADA](#dada)
    * [Decentraland](#decentraland)
+   * [Lalena](#lalena)
    * [Maecenas](#maecenas)
    * [Monacard &amp; MonaParty](#monacard--monaparty)
    * [Rare Art Labs](#rare-art-labs)
@@ -222,6 +223,11 @@ Community resources for the Counterparty asset protocol
 - [GitHub](https://github.com/decentraland)
 - [Reddit](https://reddit.com/r/decentraland)
 - [Twitter](https://twitter.com/decentraland)
+
+### Lalena
+
+- [Club Lalena](https://lalena.co/projects) is a distributed, blockchain-based membership and benefits program for DIY, experimental, and regional art spaces.
+- [Github](https://github.com/lalena-co)
 
 ### Maecenas
 
