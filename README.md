@@ -6,13 +6,7 @@ This list is curated and published by [obxium](https://obxium.com).
 
 Contributions from all members of the crypto art community are welcome.
 
-Please read and follow the guidelines described in both [CONTRIBUTING.md](https://github.com/obxium/awesome-crypto-art/blob/master/CONTRIBUTING.md) and the [CODE_OF_CONDUCT.md](https://github.com/obxium/awesome-crypto-art/blob/master/CODE_OF_CONDUCT.md) to ensure that you are comfortable participating and sharing your contribution.
-
-Please add your suggestions to the appropriate section in alphabetical order _with the exception of artist names_, which sort based on the complete name/title and _not_ by last name as established.
-
-Once you've pushed your feature branch, please open a pull request to add or update content.
-
-If you want to discuss something more complex than adding or editing an entry, (such as the addition of new sections or major edits) please feel free to [file an issue](https://github.com/obxium/awesome-crypto-art/issues) so that we can discuss it further.
+Please read and follow the guidelines described in both [CONTRIBUTING.md](https://github.com/obxium/awesome-crypto-art/blob/master/CONTRIBUTING.md) and [CODE_OF_CONDUCT.md](https://github.com/obxium/awesome-crypto-art/blob/master/CODE_OF_CONDUCT.md) to ensure that you are comfortable participating and sharing your contribution.
 
 :tada::heart: Thank you for sharing!
 
