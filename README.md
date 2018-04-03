@@ -136,8 +136,9 @@ All of the following artists are either dedicated crypto artists or have been kn
 - [Zederwan](https://twitter.com/Zederwan)
 - [Zsolt Vidak](https://twitter.com/zsoltvidak)
 
-## Books
+## Books and References
 
+- [An Artist’s Dictionary for the Blockchain](https://medium.com/xlnt-art/an-artists-dictionary-for-the-blockchain-ba097e59c26b)
 - [Artists Re:thinking the Blockchain](https://liverpooluniversitypress.co.uk/products/100826)
 
 ## Communities and Genres
@@ -318,7 +319,7 @@ Rare Pepe is built on Counterparty. Each Rare Pepe asset is a Counterparty token
 
 ## Papers
 
-- [Digital Art as ‘Monetised Graphics’: Enforcing Intellectual Property on the Blockchain](https://link.springer.com/article/10.1007/s13347-016-0243-1)
+- [A Learned Representation for Artistic Style](https://arxiv.org/pdf/1610.07629.pdf)
 - [Bitcoin](https://bitcoin.org/bitcoin.pdf)
 - [Bitcoin Hurdles: the Public Goods Costs of Securing a Decentralized Seigniorage Network which Incentivizes Alternatives and Centralization](http://www.ofnumbers.com/wp-content/uploads/2014/04/Bitcoins-Public-Goods-hurdles.pdf)
 - [Digital Art as ‘Monetised Graphics’: Enforcing Intellectual Property on the Blockchain](https://link.springer.com/article/10.1007/s13347-016-0243-1)
