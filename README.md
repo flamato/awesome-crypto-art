@@ -102,6 +102,7 @@ All of the following artists are either dedicated crypto artists or have been kn
 - [Kevin Abosch](https://iamacoin.com/)
 - [Kirk Dunkley](http://www.sigmasixdesign.com/bitcoingallery-store)
 - [Kit Krash](https://twitter.com/kitkrash)
+- [Knauj_91](https://twitter.com/Juank_Cr17) [MILLIONAIRPP](http://rarepepedirectory.com/?p=6251)
 - [Leigh Blanchard](http://www.leighblanchard.com/)
 - [Lorena Pinasco](https://dada.nyc/portraits?pl=2UXOUwy74ZnPUqjZ7ntA1A#2UXOUwy74ZnPUqjZ7ntA1A)
 - [ManWithNoName.Space](http://manwithnoname.space/)
@@ -132,6 +133,8 @@ All of the following artists are either dedicated crypto artists or have been kn
 - [Toonpunk](http://toonpunk.space/)
 - [Trina Merry](http://www.trinamerryartist.com/)
 - [VESA](https://www.artforcrypto.com/)
+- [Virtual Reality Universe of Things](https://www.vruot.com/)
+- [Von Likenstien](https://twitter.com/KylAll)
 - [XCOPY](http://xcopyart.com/)
 - [Zederwan](https://twitter.com/Zederwan)
 - [Zsolt Vidak](https://twitter.com/zsoltvidak)
@@ -283,7 +286,7 @@ Rare Pepe is built on Counterparty. Each Rare Pepe asset is a Counterparty token
 - [Tux Exchange](https://tuxexchange.com/)
 - [Zaif](https://corp.zaif.jp/)
 
-## Galleries and Registries
+## Attribution, Galleries, Provenance & Registries
 
 ### ascribe
 
@@ -293,6 +296,15 @@ Rare Pepe is built on Counterparty. Each Rare Pepe asset is a Counterparty token
 - [Tumblr](http://ascribe-io.tumblr.com/)
 - [Twitter](https://twitter.com/ascribeIO)
 - [Whitepaper](https://www.ascribe.io/app/editions/1iYjGaiKPSm3uw3bqZoTWBEkJQCaPHM4L)
+
+### Bitmark
+
+- [Bitmark website](https://bitmark.com)
+
+- [Blog](https://blog.bitmark.com/)
+- [Instagram](https://www.instagram.com/bitmarkinc/)
+- [Twitter](https://twitter.com/bitmarkinc)
+- [White paper](https://bitmark.com/resources/white-papers)
 
 ### Codex Protocol
 
