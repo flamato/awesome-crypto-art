@@ -102,7 +102,7 @@ All of the following artists are either dedicated crypto artists or have been kn
 - [Kevin Abosch](https://iamacoin.com/)
 - [Kirk Dunkley](http://www.sigmasixdesign.com/bitcoingallery-store)
 - [Kit Krash](https://twitter.com/kitkrash)
-- [Knauj_91](https://twitter.com/Juank_Cr17) [MILLIONAIRPP](http://rarepepedirectory.com/?p=6251)
+- [Knauj_91](https://twitter.com/Juank_Cr17)
 - [Leigh Blanchard](http://www.leighblanchard.com/)
 - [Lorena Pinasco](https://dada.nyc/portraits?pl=2UXOUwy74ZnPUqjZ7ntA1A#2UXOUwy74ZnPUqjZ7ntA1A)
 - [ManWithNoName.Space](http://manwithnoname.space/)
