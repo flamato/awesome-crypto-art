@@ -123,6 +123,7 @@ All of the following artists are either dedicated crypto artists or have been kn
 - [Remo Camerota](http://www.remography.com/)
 - [robek world](https://robek.world/)
 - [Robyn Ellenbogen](http://robynellenbogen.com/)
+- [S. A. Friend](https://isthisa.com/)
 - [Satoshigallery](http://www.satoshigallery.com/)
 - [serste](https://serestelitano.wixsite.com/thepencilholder)
 - [SHA256art](https://www.sha256art.com)
