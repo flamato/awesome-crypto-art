@@ -126,6 +126,7 @@ All of the following artists are either dedicated crypto artists or have been kn
 - [Satoshigallery](http://www.satoshigallery.com/)
 - [serste](https://serestelitano.wixsite.com/thepencilholder)
 - [SHA256art](https://www.sha256art.com)
+- [Simon Denny](https://twitter.com/dennnnnnnnny)
 - [Sónia Oliveira](http://www.cirandara.com/index.php?/info/english/)
 - [Susan Silvester](http://www.susansilvester.com/)
 - [Takashi Murakami](https://twitter.com/takashipom)
