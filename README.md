@@ -285,6 +285,12 @@ Rare Pepe is built on Counterparty. Each Rare Pepe asset is a Counterparty token
 - [Slack](https://join.slack.com/t/thescarabexperiment/shared_invite/enQtMjQzOTgwMTM1MTUzLTA5M2E5NjhmMWNmYjQ3ZWQ4ODNmMDZlMzY5ZjAxMWZlYTE5ODVmNjkwYWZjODQxNmY5ZTMzNDYzNTE5MWRiOTk)
 - [Twitter](http://twitter.com/TheScarabX)
 
+### SuperRare
+
+- [SuperRare website](https://superrare.co/)
+- [SuperRare Artist Network application](https://docs.google.com/forms/d/e/1FAIpQLScTZhB9On31j-uoFzMD3hg0gGNf3hgjVyBz1xwCHsOBSydvPw/viewform)
+- [Twitter](https://twitter.com/superrare_co)
+
 ## Exchanges
 
 - [Coinbase](https://www.coinbase.com/)
