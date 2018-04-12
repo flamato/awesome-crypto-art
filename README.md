@@ -15,7 +15,7 @@ Please read and follow the guidelines described in both [CONTRIBUTING.md](https:
 * [Table of Contents](#table-of-contents)
 * [Disclaimer](#disclaimer)
 * [Artists](#artists)
-* [Books](#books)
+* [Books and References](#books-and-references)
 * [Communities and Genres](#communities-and-genres)
    * [Archetype.cc](#archetypecc)
    * [Archetype.mx](#archetypemx)
@@ -30,12 +30,15 @@ Please read and follow the guidelines described in both [CONTRIBUTING.md](https:
    * [Lalena](#lalena)
    * [Maecenas](#maecenas)
    * [Monacard &amp; MonaParty](#monacard--monaparty)
+   * [Owlstand](#owlstand)
    * [Rare Art Labs](#rare-art-labs)
    * [Rare Pepe](#rare-pepe)
    * [The Scarab Experiment](#the-scarab-experiment)
+   * [SuperRare](#superrare)
 * [Exchanges](#exchanges)
-* [Galleries and Registries](#galleries-and-registries)
+* [Attribution, Galleries, Provenance &amp; Registries](#attribution-galleries-provenance--registries)
    * [ascribe](#ascribe)
+   * [Bitmark](#bitmark)
    * [Codex Protocol](#codex-protocol)
    * [Krypto Studios](#krypto-studios)
    * [Rare Bits](#rare-bits)
@@ -58,10 +61,8 @@ Please read and follow the guidelines described in both [CONTRIBUTING.md](https:
    * [Other Hardware](#other-hardware)
 * [Crypto Art &amp; Collection Related Websites](#crypto-art--collection-related-websites)
 * [Articles and Posts](#articles-and-posts)
-* [Donate](#donate)
-   * [Please donate Bitcoin and Bitcoin based art &amp; assets to this address:](#please-donate-bitcoin-and-bitcoin-based-art--assets-to-this-address)
-   * [Please donate Ethereum and Ethereum based art &amp; assets to this address:](#please-donate-ethereum-and-ethereum-based-art--assets-to-this-address)
 * [Thank You!](#thank-you)
+
 
 
 ## Disclaimer
@@ -119,6 +120,7 @@ All of the following artists are either dedicated crypto artists or have been kn
 - [Norma Zelda Jara](https://dada.nyc/portraits?pl=xelda45#xelda45)
 - [otro](https://dada.nyc/portraits?pl=_cJ7Ek0VYDBRB1uKpv7VDw#_cJ7Ek0VYDBRB1uKpv7VDw)
 - [Ophelia Fu](http://www.opheliafu.co.uk/)
+- [Paris Psalter](cool.willhal.com)
 - [Pepe Girl](https://twitter.com/pepegirl3)
 - [pepedust](http://pepedust.com/)
 - [phneep](http://www.phneep.com/)
@@ -255,6 +257,11 @@ Community resources for the Counterparty asset protocol
 - [MonaParty website](https://www.monaparty.me/)
 - [MonaParty Twitter](@MonapartyXMP)
 - [MonaWallet website](https://wallet.monaparty.me)
+
+### Owlstand
+
+- [Owlstand website](https://owlstand.com)
+- [Twitter](https://twitter.com/owlstand)
 
 ### Rare Art Labs
 
