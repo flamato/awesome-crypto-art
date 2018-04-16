@@ -468,6 +468,7 @@ Rare Pepe is built on Counterparty. Each Rare Pepe asset is a Counterparty token
 ## Articles and Posts
 
 [An Artist’s Guide to the Blockchain / Part 1](https://medium.com/xlnt-art/an-artists-guide-to-the-blockchain-part-1-1b0180e5a17a)
+[Will Cryptocurrencies Be the Art Market’s Next Big Thing?](https://www.nytimes.com/2018/01/13/arts/cryptocurrency-art-market.html)
 
 ## Thank You!
 
