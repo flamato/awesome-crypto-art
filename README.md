@@ -88,6 +88,7 @@ All of the following artists are either dedicated crypto artists or have been kn
 - [cromomaniaco](https://dada.nyc/portraits?pl=SCpgNGpvkxk3orDddDAiig#SCpgNGpvkxk3orDddDAiig)
 - [cryptograffiti](https://cryptograffiti.com/)
 - [Cryptopop](https://cryptopop.net/)
+- [CryptoPup](https://twitter.com/CoinStillHot)
 - [Daniel Friedman](https://www.flickr.com/photos/daniel_friedman/)
 - [Danys Rangel](https://twitter.com/PEPELIKE2017)
 - [DavinciNine](https://twitter.com/DavinciNine)
