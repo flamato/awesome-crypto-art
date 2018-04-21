@@ -97,6 +97,7 @@ All of the following artists are either dedicated crypto artists or have been kn
 - [E. Brout & M. Marion](http://t.co/k8J69oxtUm)
 - [Elijah Barrett](http://elijahbarrett.com)
 - [Elypse](https://twitter.com/elypse_pink)
+- [Hackatao](https://twitter.com/Hackatao)
 - [Jesse Wright](https://www.rantingwright.com/)
 - [Jessica Angel](http://www.jessicaangelarts.com/)
 - [Julia Justo](https://www.juliajusto.com/)
