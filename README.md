@@ -147,7 +147,7 @@ All of the following artists are either dedicated crypto artists or have been kn
 - [Rob Myers](https://twitter.com/robmyers)
 - [robek world](https://robek.world/)
 - [Robyn Ellenbogen](http://robynellenbogen.com/)
-- [S. A. Friend](https://isthisa.com/)
+- [Sarah Friend](https://isthisa.com/)
 - [Sarah Meyohas](http://www.sarahmeyohas.com/)
 - [Satoshigallery](http://www.satoshigallery.com/)
 - [serste](https://serestelitano.wixsite.com/thepencilholder)
