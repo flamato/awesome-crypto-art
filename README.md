@@ -358,11 +358,6 @@ Rare Pepe is built on Counterparty. Each Rare Pepe asset is a Counterparty token
 - [Krypto Studios website](https://www.kryptostudios.net/)
 - [Twitter](https://twitter.com/KryptoStudiosWW)
 
-### Rare Bits
-
-- [Rare Bits website](https://t.co/nOO9Vzmd1E)
-- [Twitter](https://twitter.com/rarebits_io)
-
 ### The Distributed Gallery
 
 - [The Distributed Gallery website](http://www.distributedgallery.com)
