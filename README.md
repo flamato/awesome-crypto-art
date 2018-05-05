@@ -109,7 +109,7 @@ All of the following artists are either dedicated crypto artists or have been kn
 - [Jessica Angel](http://www.jessicaangelarts.com/)
 - [Julia Justo](https://www.juliajusto.com/)
 - [Julia K](https://twitter.com/juliakponsford)
-- [julian chappell](http://www.jswwc.net/)
+- [julian chappell](https://www.instagram.com/julian__chappell/)
 - [Julian Harper](http://www.julianharperart.com/)
 - [Kevin Abosch](https://iamacoin.com/)
 - [kashkill](https://www.instagram.com/kashkill/)
