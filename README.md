@@ -104,6 +104,7 @@ All of the following artists are either dedicated crypto artists or have been kn
 - [Elypse](https://twitter.com/elypse_pink)
 - [Hackatao](https://twitter.com/Hackatao)
 - [H33M](https://h33minc.com/)
+- [Jack Liver](https://twitter.com/jackliv3r)
 - [Jack McKain](http://www.jackmckain.com/)
 - [Jesse Wright](https://www.rantingwright.com/)
 - [Jessica Angel](http://www.jessicaangelarts.com/)
