@@ -258,6 +258,13 @@ Community resources for the Counterparty asset protocol
 - [Reddit](https://reddit.com/r/decentraland)
 - [Twitter](https://twitter.com/decentraland)
 
+### KnownOrigin
+
+- [KnownOrigin.io website](https://www.knownorigin.io/)
+- [Medium](https://medium.com/knownorigin)
+- [Telegram](https://t.me/knownorigin_io)
+- [Twitter](https://twitter.com/knownorigin_io)
+
 ### Lalena
 
 - [Club Lalena](https://lalena.co/projects) is a distributed, blockchain-based membership and benefits program for DIY, experimental, and regional art spaces.
