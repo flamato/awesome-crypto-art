@@ -12,6 +12,7 @@ Please read and follow the guidelines described in both [CONTRIBUTING.md](https:
 
 ## Table of Contents
 
+* [Table of Contents](#table-of-contents)
 * [Disclaimer](#disclaimer)
 * [Artists](#artists)
 * [Books and References](#books-and-references)
@@ -35,6 +36,7 @@ Please read and follow the guidelines described in both [CONTRIBUTING.md](https:
    * [Rare Pepe](#rare-pepe)
    * [The Scarab Experiment](#the-scarab-experiment)
    * [SuperRare](#superrare)
+* [Events](#events)
 * [Exchanges](#exchanges)
 * [Attribution, Galleries, Provenance &amp; Registries](#attribution-galleries-provenance--registries)
    * [ascribe](#ascribe)
