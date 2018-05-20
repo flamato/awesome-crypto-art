@@ -12,7 +12,6 @@ Please read and follow the guidelines described in both [CONTRIBUTING.md](https:
 
 ## Table of Contents
 
-* [Table of Contents](#table-of-contents)
 * [Disclaimer](#disclaimer)
 * [Artists](#artists)
 * [Books and References](#books-and-references)
@@ -20,13 +19,14 @@ Please read and follow the guidelines described in both [CONTRIBUTING.md](https:
    * [Archetype.cc](#archetypecc)
    * [Archetype.mx](#archetypemx)
    * [ArtByte](#artbyte)
-   * [#ARTPROJECT](#artproject)
+   * [#ARTPROJECT Decentralized](#artproject-decentralized)
    * [Counterparty](#counterparty)
    * [Creativechain](#creativechain)
    * [CryptoPunks](#cryptopunks)
    * [Curio Cards](#curio-cards)
    * [DADA](#dada)
    * [Decentraland](#decentraland)
+   * [KnownOrigin](#knownorigin)
    * [Lalena](#lalena)
    * [Maecenas](#maecenas)
    * [Monacard &amp; MonaParty](#monacard--monaparty)
@@ -41,18 +41,18 @@ Please read and follow the guidelines described in both [CONTRIBUTING.md](https:
    * [Bitmark](#bitmark)
    * [Codex Protocol](#codex-protocol)
    * [Krypto Studios](#krypto-studios)
-   * [Rare Bits](#rare-bits)
    * [The Distributed Gallery](#the-distributed-gallery)
 * [Papers](#papers)
 * [Podcasts](#podcasts)
 * [Technologies &amp; Tools](#technologies--tools)
    * [Contracts &amp; Tokens](#contracts--tokens)
       * [Counterparty (XCP)](#counterparty-xcp)
-      * [Ethereum ERC-20 token contract](#ethereum-erc-20-token-contract)
-      * [Ethereum ERC-721 token contract](#ethereum-erc-721-token-contract)
-      * [Ethereum ERC-827 token contract](#ethereum-erc-827-token-contract)
+      * [Ethereum ERC-20 Standard Interface for Tokens](#ethereum-erc-20-standard-interface-for-tokens)
+      * [Ethereum ERC-721 Non-fungible Token Standard](#ethereum-erc-721-non-fungible-token-standard)
+      * [Ethereum ERC-998 Composable Non-Fungible Token Standard](#ethereum-erc-998-composable-non-fungible-token-standard)
       * [Solidity Smart Contract Language](#solidity-smart-contract-language)
    * [Wallets](#wallets)
+      * [Cold Wallets](#cold-wallets)
       * [Hardware Wallets](#hardware-wallets)
       * [Software Wallets](#software-wallets)
          * [Bitcoin (BTC) Software Wallets](#bitcoin-btc-software-wallets)
@@ -62,8 +62,6 @@ Please read and follow the guidelines described in both [CONTRIBUTING.md](https:
 * [Crypto Art &amp; Collection Related Websites](#crypto-art--collection-related-websites)
 * [Articles and Posts](#articles-and-posts)
 * [Thank You!](#thank-you)
-
-
 
 ## Disclaimer
 
@@ -324,6 +322,10 @@ Rare Pepe is built on Counterparty. Each Rare Pepe asset is a Counterparty token
 - [SuperRare website](https://superrare.co/)
 - [SuperRare Artist Network application](https://docs.google.com/forms/d/e/1FAIpQLScTZhB9On31j-uoFzMD3hg0gGNf3hgjVyBz1xwCHsOBSydvPw/viewform)
 - [Twitter](https://twitter.com/superrare_co)
+
+## Events
+
+- [DAOWO](http://www.daowo.org/)
 
 ## Exchanges
 
