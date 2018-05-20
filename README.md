@@ -172,7 +172,7 @@ All of the following artists are either dedicated crypto artists or have been kn
 ## Books and References
 
 - [An Artist’s Dictionary for the Blockchain](https://medium.com/xlnt-art/an-artists-dictionary-for-the-blockchain-ba097e59c26b)
-- [Artists Re:thinking the Blockchain](http://torquetorque.net/publications/artists-rethinking-the-blockchain/) (Print and free PDF)
+  - [Artists Re:thinking the Blockchain](http://torquetorque.net/publications/artists-rethinking-the-blockchain/) (Print and free PDF)
 
 ## Communities and Genres
 
@@ -198,9 +198,9 @@ The following are links to different crypto art communities and generes of art; 
 - [Twitter](http://twitter.com/artbyteme)
 - [White paper](https://www.slideshare.net/MikeCabaniss/artbyte-white-paper-track-record)
 
-### #ARTPROJECT
+### #ARTPROJECT Decentralized
 
-- [truebit ART PROJECT website](http://artproject.io/)
+- [ART PROJECT website](http://artproject.io/)
 - [Project Proposal](https://truebit.io/artproject.pdf)
 - [Telegram](https://t.me/cryptoartproject)
 - [Medium](https://medium.com/artproject-truebit)
@@ -327,6 +327,8 @@ Rare Pepe is built on Counterparty. Each Rare Pepe asset is a Counterparty token
 
 ## Exchanges
 
+- [Binance](https://www.binance.com/)
+- [Bittrex](https://bittrex.com/)
 - [Coinbase](https://www.coinbase.com/)
 - [DDEX](https://ddex.io/) decentralized exchange for Ethereum-based Tokens
 - [GDAX](https://www.gdax.com/)
@@ -348,7 +350,6 @@ Rare Pepe is built on Counterparty. Each Rare Pepe asset is a Counterparty token
 ### Bitmark
 
 - [Bitmark website](https://bitmark.com)
-
 - [Blog](https://blog.bitmark.com/)
 - [Instagram](https://www.instagram.com/bitmarkinc/)
 - [Twitter](https://twitter.com/bitmarkinc)
@@ -399,19 +400,21 @@ Rare Pepe is built on Counterparty. Each Rare Pepe asset is a Counterparty token
 - [Counterparty protocol specification](https://counterparty.io/docs/protocol_specification/)
 - [CoinDaddy](https://www.coindaddy.io/) XCP asset services
 
-#### Ethereum ERC-20 token contract
+#### Ethereum ERC-20 Standard Interface for Tokens
 
-- [ERC-20 token definition](https://github.com/ethereum/EIPs/blob/master/EIPS/eip-20.md)
+- [ERC-20 Token Standard](https://github.com/ethereum/eips/issues/20)
+- [EIP-20 Standard Interface for Tokens](https://github.com/ethereum/EIPs/blob/master/EIPS/eip-20.md)
 - [Understanding ERC-20 token contracts](https://medium.com/@jgm.orinoco/understanding-erc-20-token-contracts-a809a7310aa5)
 
-#### Ethereum ERC-721 token contract
+#### Ethereum ERC-721 Non-fungible Token Standard
 
-- [ERC-721 token definition](https://github.com/ethereum/eips/issues/721)
+- [ERC-721 Non-fungible Token Standard](https://github.com/ethereum/eips/issues/721)
+- [EIP-721 Standard Interface for Non-Fungible Tokens](https://github.com/ethereum/EIPs/blob/master/EIPS/eip-721.md)
 - [The Anatomy of ERC721](https://medium.com/crypto-currently/the-anatomy-of-erc721-e9db77abfc24)
 
-#### Ethereum ERC-827 token contract
+#### Ethereum ERC-998 Composable Non-Fungible Token Standard
 
-- [ERC-827 token definition](https://github.com/ethereum/EIPs/issues/827)
+- [ERC-998 token definition](https://github.com/ethereum/EIPs/issues/998)
 
 #### Solidity Smart Contract Language
 
@@ -421,6 +424,12 @@ Rare Pepe is built on Counterparty. Each Rare Pepe asset is a Counterparty token
 - [Truffle documentation](http://truffleframework.com/docs/)
 
 ### Wallets
+
+#### Cold Wallets
+
+- [Billfodl](https://billfodl.com/)
+- [bitkee](https://bitkee.com/)
+- [Cryptosteel](https://cryptosteel.com/)
 
 #### Hardware Wallets
 
@@ -435,6 +444,7 @@ Rare Pepe is built on Counterparty. Each Rare Pepe asset is a Counterparty token
 
 - [Book of Orbs](http://www.bookoforbs.com/index_eng.html) supports Bitcoin and CounterParty tokens (Android)
 - [CounterWallet](https://counterwallet.io/) supports Bitcoin and CounterParty tokens (Browser)
+- [Edge](https://edgesecure.co/)
 - [Exodus](https://www.exodus.io) multi-asset wallet
 - [FreeWallet](https://freewallet.io/) supports Bitcoin and CounterParty tokens (Android, Browser, iOS, Linux, Windows)
 - [IndieSquareWallet](https://wallet.indiesquare.me/) supports Bitcoin and CounterParty tokens (Android and iOS with web based IndieBoard for browsers/desktop)
@@ -443,10 +453,12 @@ Rare Pepe is built on Counterparty. Each Rare Pepe asset is a Counterparty token
 
 ##### Ethereum (ETH) Software Wallets
 
+- [Edge](https://edgesecure.co/)
 - [Exodus](https://www.exodus.io) multi-asset wallet
 - [Jaxx](https://jaxx.io/)
 - [MetaMask](https://metamask.io/)
 - [MyEtherWallet](https://www.myetherwallet.com/)
+- [Trust Wallet](https://trustwalletapp.com/)
 - [Vault](https://www.vaultproject.io/)
  - [vault-ethereum](https://github.com/immutability-io/vault-ethereum)
  - [Immutability Project](https://github.com/immutability-io/immutability-project)
