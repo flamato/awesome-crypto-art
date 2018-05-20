@@ -172,7 +172,7 @@ All of the following artists are either dedicated crypto artists or have been kn
 ## Books and References
 
 - [An Artist’s Dictionary for the Blockchain](https://medium.com/xlnt-art/an-artists-dictionary-for-the-blockchain-ba097e59c26b)
-- [Artists Re:thinking the Blockchain](https://liverpooluniversitypress.co.uk/products/100826)
+- [Artists Re:thinking the Blockchain](http://torquetorque.net/publications/artists-rethinking-the-blockchain/) (Print and free PDF)
 
 ## Communities and Genres
 
