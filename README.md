@@ -491,6 +491,7 @@ Rare Pepe is built on Counterparty. Each Rare Pepe asset is a Counterparty token
 
 - [ARK PYRAMID](http://www.arkpyrmd.com/)
 - [Artnome](https://www.artnome.com/)
+- [The Blockchain & Digital Artist Directory](https://banddad.net/)
 - [Codex Protocol](https://codexprotocol.com/) is a blockchain based decentralized title registry for Art & Collectibles
 - [Crypto Greetings](https://www.cryptogreetings.com/)
 - [DecentralizedArtShow](https://www.decentralizedartshows.com/)
