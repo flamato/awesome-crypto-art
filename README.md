@@ -39,7 +39,6 @@ Please read and follow the guidelines described in both [CONTRIBUTING.md](https:
 * [Events](#events)
 * [Exchanges](#exchanges)
 * [Attribution, Galleries, Provenance &amp; Registries](#attribution-galleries-provenance--registries)
-   * [ascribe](#ascribe)
    * [Bitmark](#bitmark)
    * [Codex Protocol](#codex-protocol)
    * [Krypto Studios](#krypto-studios)
@@ -69,6 +68,7 @@ Please read and follow the guidelines described in both [CONTRIBUTING.md](https:
 
 **Please carefully read and understand the disclaimer for this publication.**
 
+- This is a merely listing of third parties without specific guidance or endorsement
 - Nothing in this publication constitutes financial advice and the contributors to this publication are not contributing as qualified licensed financial advisors
 - All information found in this publication, including ideas, opinions, views, commentaries, suggestions, or processes, expressed or implied herein, are for informational, entertainment or educational purposes only and should not be construed as financial advice
 - The authors and contributors will not and cannot be held liable for any actions you take as a result of anything you read in this publication
@@ -341,15 +341,6 @@ Rare Pepe is built on Counterparty. Each Rare Pepe asset is a Counterparty token
 - [Zaif](https://corp.zaif.jp/)
 
 ## Attribution, Galleries, Provenance & Registries
-
-### ascribe
-
-- [ascribe website](https://www.ascribe.io/)
-- [Frequently Asked Questions](https://www.ascribe.io/faq/)
-- [GitHub](https://github.com/ascribe)
-- [Tumblr](http://ascribe-io.tumblr.com/)
-- [Twitter](https://twitter.com/ascribeIO)
-- [Whitepaper](https://www.ascribe.io/app/editions/1iYjGaiKPSm3uw3bqZoTWBEkJQCaPHM4L)
 
 ### Bitmark
 
