@@ -108,6 +108,7 @@ All of the following artists are either dedicated crypto artists or have been kn
 - [Jack McKain](http://www.jackmckain.com/)
 - [Jesse Wright](https://www.rantingwright.com/)
 - [Jessica Angel](http://www.jessicaangelarts.com/)
+- [Joe Chiappetta](http://www.sillydaddy.net)
 - [Julia Justo](https://www.juliajusto.com/)
 - [Julia K](https://twitter.com/juliakponsford)
 - [julian chappell](https://www.instagram.com/julian__chappell/)
