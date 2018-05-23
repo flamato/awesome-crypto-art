@@ -30,6 +30,7 @@ Please read and follow the guidelines described in both [CONTRIBUTING.md](https:
    * [KnownOrigin](#knownorigin)
    * [Lalena](#lalena)
    * [Maecenas](#maecenas)
+   * [Mafia Wars](#mafia-wars)
    * [Monacard &amp; MonaParty](#monacard--monaparty)
    * [Owlstand](#owlstand)
    * [Rare Art Labs](#rare-art-labs)
@@ -279,6 +280,16 @@ Community resources for the Counterparty asset protocol
 - [Telegram](https://telegram.maecenas.co/)
 - [Twitter](https://twitter.com/maecenasart)
 - [White paper](https://www.maecenas.co/Maecenas-WhitePaper.pdf)
+
+### Mafia Wars
+
+Mafia Wars is built on Counterparty. Each Mafia Wars game card is a Counterparty token. A special card, **MAFIACASH** also exists and Mafia Wars cards are exchanged for MAFIACASH, PEPECASH, XCP, or other assets.
+
+- [Mafia Wars Website](https://mafiawars.io/)
+- [Twitter](https://twitter.com/mafiawars_io)
+- [Telegram](https://t.me/mafiawars_io)
+- [Token Sale](https://mafiawars.io/TokenSale.pdf)
+
 
 ### Monacard & MonaParty
 
