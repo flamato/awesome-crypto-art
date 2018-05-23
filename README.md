@@ -261,10 +261,11 @@ Community resources for the Counterparty asset protocol
 
 ### KnownOrigin
 
-- [KnownOrigin.io website](https://www.knownorigin.io/)
-- [Medium](https://medium.com/knownorigin)
+- [KnownOrigin.io website](https://www.knownorigin.io/) - Discover, buy and collect digital artwork by some of the worlds most respected artists, illustrators and creative practitioners. 
 - [Telegram](https://t.me/knownorigin_io)
+- [GitHub](https://github.com/knownorigin/known-origin-web3-marketplace)
 - [Twitter](https://twitter.com/knownorigin_io)
+- [Medium](https://medium.com/knownorigin)
 
 ### Lalena
 
