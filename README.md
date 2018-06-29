@@ -140,6 +140,7 @@ All of the following artists are either dedicated crypto artists or have been kn
 - [Nanu Berks](http://nanuberks.com/)
 - [NEW PABLO](https://www.instagram.com/newpabloflow/)
 - [Norma Zelda Jara](https://dada.nyc/portraits?pl=xelda45#xelda45)
+- [obxium](https://obxium.com)
 - [Osinachi](https://www.instagram.com/__osinachi/)
 - [otro](https://dada.nyc/portraits?pl=_cJ7Ek0VYDBRB1uKpv7VDw#_cJ7Ek0VYDBRB1uKpv7VDw)
 - [Ophelia Fu](http://www.opheliafu.co.uk/)
