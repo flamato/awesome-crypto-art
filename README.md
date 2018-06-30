@@ -129,6 +129,7 @@ All of the following artists are either dedicated crypto artists or have been kn
 - [ManWithNoName.Space](http://manwithnoname.space/)
 - [massel](https://dada.nyc/portraits?pl=b38O-dof1tSf5-5A-uElnw#b38O-dof1tSf5-5A-uElnw)
 - [Marisol Vengas](https://www.facebook.com/MarisolVengas/)
+- [Mark ₿ern](http://www.markbern.com/)
 - [Matthew Zipkin](https://matthewzipkin.com/)
 - [matytan](https://dada.nyc/portraits?pl=v-zHNwtjDKnL9A6PNO17gg#v-zHNwtjDKnL9A6PNO17gg)
 - [Michele Rosenthal](http://michelerosenthal.com/)
