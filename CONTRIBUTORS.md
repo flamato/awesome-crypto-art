@@ -6,3 +6,4 @@ Thanks to these contributors to the Awesome Crypto Art list!
 - [@ana0](https://github.com/ana0)
 - [@robmyers](https://github.com/robmyers)
 - [@jamesmorgan](https://github.com/jamesmorgan)
+- [@abenzer](https://github.com/jamesmorgan)
