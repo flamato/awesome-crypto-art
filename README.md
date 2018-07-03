@@ -27,6 +27,7 @@ Please read and follow the guidelines described in both [CONTRIBUTING.md](https:
    * [Curio Cards](#curio-cards)
    * [DADA](#dada)
    * [Decentraland](#decentraland)
+   * [Digital Objects](#digitalobjects)
    * [KnownOrigin](#knownorigin)
    * [Lalena](#lalena)
    * [Maecenas](#maecenas)
@@ -282,9 +283,16 @@ Community resources for the Counterparty asset protocol
 - [Reddit](https://reddit.com/r/decentraland)
 - [Twitter](https://twitter.com/decentraland)
 
+### Digital Objects
+
+- [Digital Objects website](https://digitalobjects.art)
+- [Instagram](https://instagram.com/dobjects)
+- [Twitter](https://twitter.com/dobjectsart)
+- [Medium](http://medium.com/digital-objects/)
+
 ### KnownOrigin
 
-- [KnownOrigin.io website](https://www.knownorigin.io/) - Discover, buy and collect digital artwork by some of the worlds most respected artists, illustrators and creative practitioners. 
+- [KnownOrigin.io website](https://www.knownorigin.io/) - Discover, buy and collect digital artwork by some of the worlds most respected artists, illustrators and creative practitioners.
 - [Telegram](https://t.me/knownorigin_io)
 - [GitHub](https://github.com/knownorigin/known-origin-web3-marketplace)
 - [Twitter](https://twitter.com/knownorigin_io)
