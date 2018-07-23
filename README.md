@@ -194,10 +194,11 @@ All of the following artists are either dedicated crypto artists or have been kn
 - [Zederwan](https://twitter.com/Zederwan)
 - [Zsolt Vidak](https://twitter.com/zsoltvidak)
 
-## Books and References
+## Books, Magazines and Other References
 
 - [An Artist’s Dictionary for the Blockchain](https://medium.com/xlnt-art/an-artists-dictionary-for-the-blockchain-ba097e59c26b)
 - [Artists Re:thinking the Blockchain](http://torquetorque.net/publications/artists-rethinking-the-blockchain/) (Print and free PDF)
+- [The Creative Crypto Magazine](https://www.thecreativecrypto.com/)
 
 ## Communities and Genres
 
