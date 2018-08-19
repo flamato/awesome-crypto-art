@@ -38,6 +38,7 @@ Please read and follow the guidelines described in both [CONTRIBUTING.md](https:
    * [Rare Pepe](#rare-pepe)
    * [The Scarab Experiment](#the-scarab-experiment)
    * [SuperRare](#superrare)
+   * [Weeeart](#weeeart)
 * [Events](#events)
 * [Exchanges](#exchanges)
 * [Attribution, Galleries, Provenance &amp; Registries](#attribution-galleries-provenance--registries)
@@ -100,6 +101,7 @@ All of the following artists are either dedicated crypto artists or have been kn
 - [CryptoPup](https://twitter.com/CoinStillHot)
 - [Daniel Friedman](https://www.flickr.com/photos/daniel_friedman/)
 - [Danys Rangel](https://twitter.com/PEPELIKE2017)
+- [David Sun](https://bydavidsun.com/)
 - [DavinciNine](https://twitter.com/DavinciNine)
 - [DJ J Scrilla](https://rarescrilla.com/)
 - [Drawz](https://twitter.com/cryptodrawz)
@@ -304,14 +306,6 @@ Community resources for the Counterparty asset protocol
 - [Club Lalena](https://lalena.co/projects) is a distributed, blockchain-based membership and benefits program for DIY, experimental, and regional art spaces.
 - [Github](https://github.com/lalena-co)
 
-### Maecenas
-
-- [Maecenas](https://www.maecenas.co/)
-- [Medium](https://medium.com/maecenas)
-- [Telegram](https://telegram.maecenas.co/)
-- [Twitter](https://twitter.com/maecenasart)
-- [White paper](https://www.maecenas.co/Maecenas-WhitePaper.pdf)
-
 ### Mafia Wars
 
 Mafia Wars is built on Counterparty. Each Mafia Wars game card is a Counterparty token. A special card, **MAFIACASH** also exists and Mafia Wars cards are exchanged for MAFIACASH, PEPECASH, XCP, or other assets.
@@ -320,7 +314,6 @@ Mafia Wars is built on Counterparty. Each Mafia Wars game card is a Counterparty
 - [Twitter](https://twitter.com/mafiawars_io)
 - [Telegram](https://t.me/mafiawars_io)
 - [Token Sale](https://mafiawars.io/TokenSale.pdf)
-
 
 ### Monacard & MonaParty
 
@@ -369,6 +362,12 @@ Rare Pepe is built on Counterparty. Each Rare Pepe asset is a Counterparty token
 - [SuperRare Artist Network application](https://docs.google.com/forms/d/e/1FAIpQLScTZhB9On31j-uoFzMD3hg0gGNf3hgjVyBz1xwCHsOBSydvPw/viewform)
 - [Twitter](https://twitter.com/superrare_co)
 
+### Weeeart
+
+- [Weeeart website](https://art.weee.network/)
+- [Medium](https://medium.com/weeeart)
+- [Twitter](https://twitter.com/weeeart)
+
 ## Events
 
 - [DAOWO](http://www.daowo.org/)
@@ -401,16 +400,24 @@ Rare Pepe is built on Counterparty. Each Rare Pepe asset is a Counterparty token
 - [Twitter](https://twitter.com/CodexProtocol)
 - [Whitepaper](https://docsend.com/view/n4sbws8)
 
-### Krypto Studios
-
-- [Krypto Studios website](https://www.kryptostudios.net/)
-- [Twitter](https://twitter.com/KryptoStudiosWW)
-
 ### The Distributed Gallery
 
 - [The Distributed Gallery website](http://www.distributedgallery.com)
 - [GitHub](https://github.com/distributedgallery/)
 - [Twitter](https://twitter.com/DistribGallery)
+
+### Krypto Studios
+
+- [Krypto Studios website](https://www.kryptostudios.net/)
+- [Twitter](https://twitter.com/KryptoStudiosWW)
+
+### Maecenas
+
+- [Maecenas](https://www.maecenas.co/)
+- [Medium](https://medium.com/maecenas)
+- [Telegram](https://telegram.maecenas.co/)
+- [Twitter](https://twitter.com/maecenasart)
+- [White paper](https://www.maecenas.co/Maecenas-WhitePaper.pdf)
 
 ## Papers
 
