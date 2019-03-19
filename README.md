@@ -379,6 +379,7 @@ Rare Pepe is built on Counterparty. Each Rare Pepe asset is a Counterparty token
 - [Coinbase](https://www.coinbase.com/)
 - [DDEX](https://ddex.io/) decentralized exchange for Ethereum-based Tokens
 - [GDAX](https://www.gdax.com/)
+- [Ordermatch](https://ordermatch.io/) decentralized exchange based on 0x protocol
 - [Poloniex](https://poloniex.com/)
 - [Tux Exchange](https://tuxexchange.com/)
 - [Zaif](https://corp.zaif.jp/)
